@@ -12,7 +12,7 @@ if [ $LOCAL = $REMOTE ]; then
 elif [ $LOCAL = $BASE ]; then
     echo "Need to pull"
     git pull
-    pihole -g
+    /usr/local/bin/pihole -g
 elif [ $REMOTE = $BASE ]; then
     echo "Need to push"
 else
