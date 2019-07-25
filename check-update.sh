@@ -1,5 +1,7 @@
 #!/bin/sh
 
+piholecmd=${UPDATECMD:-"/usr/local/bin/pihole -g"}
+
 git fetch
 
 UPSTREAM=${1:-'@{u}'}
@@ -12,7 +14,7 @@ if [ $LOCAL = $REMOTE ]; then
 elif [ $LOCAL = $BASE ]; then
     echo "Need to pull"
     git pull
-    /usr/local/bin/pihole -g
+    $piholecmd
 elif [ $REMOTE = $BASE ]; then
     echo "Need to push"
 else
