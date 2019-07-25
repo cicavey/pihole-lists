@@ -10,7 +10,7 @@ BASE=$(git merge-base @ "$UPSTREAM")
 if [ $LOCAL = $REMOTE ]; then
     echo "Up-to-date"
 elif [ $LOCAL = $BASE ]; then
-    echo i"Need to pull"
+    echo "Need to pull"
     git pull
     pihole -g
 elif [ $REMOTE = $BASE ]; then
