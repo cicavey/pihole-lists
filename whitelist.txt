@@ -127,6 +127,7 @@ opensubtitles.org
 outlook.office365.com
 pbs.twimg.com
 pixel.facebook.com
+pixel.nymag.com
 plex.tv
 portal.fb.com
 pricelist.skype.com
