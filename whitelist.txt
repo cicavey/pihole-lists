@@ -184,6 +184,7 @@ tvline.com
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
 ui.skype.com
+unpkg.com
 upload.facebook.com
 variety.com
 verified.capitalone.com
