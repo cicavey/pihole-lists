@@ -12,6 +12,7 @@ amazon.com
 ameritrade.com
 android.clients.google.com
 anrdoezrs.net
+api.coinbase.com
 api.facebook.com
 app.hubspot.com
 apple.com
@@ -36,6 +37,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+clientstream.launchdarkly.com
 code.createjs.com
 code.facebook.com
 connect.facebook.com
@@ -48,6 +50,7 @@ csi.gstatic.com
 c.s-microsoft.com
 customerevents.netflix.com
 dashboard.plex.tv
+device-api.urbanairship.com
 dl.dropboxusercontent.com
 download.sonarr.tv
 edge-chat.facebook.com
@@ -69,6 +72,7 @@ fb.me
 feedly.com
 fivethirtyeight.com
 forums.sonarr.tv
+geoip.maxmind.com
 gfwsl.geforce.com
 giphy.com
 github.com
@@ -140,6 +144,7 @@ pubsub.plex.tv
 ransomwaretracker.abuse.ch
 raw.githubusercontent.com
 reddestdream.github.io
+remote-data.urbanairship.com
 s1.symcb.com
 s2.symcb.com
 s3-1.amazonaws.com
@@ -168,6 +173,7 @@ star-mini.c10r.facebook.com
 static.criteo.net
 staticxx.facebook.com
 static.xx.fbcdn.net
+stats.appsflyer.com
 status.plex.tv
 synology.com
 s.youtube.com
@@ -178,6 +184,8 @@ themoviedb.com
 thetvdb.com
 trackcmp.net
 tr.snapchat.com
+tracking.epicgames.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
 tvdb2.plex.tv
 tvfool.com
 tvline.com
@@ -192,6 +200,7 @@ v.firebog.net
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 winhelp2002.mvps.org
+ws.coinbase.com
 www.amazon.com
 www.aws.training
 www.coinbase.com
