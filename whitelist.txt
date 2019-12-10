@@ -76,6 +76,7 @@ geoip.maxmind.com
 gfwsl.geforce.com
 giphy.com
 github.com
+boards.greenhouse.io
 goo.gl
 googlehosted.l.googleusercontent.com
 graph.facebook.com
