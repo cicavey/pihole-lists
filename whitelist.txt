@@ -150,6 +150,8 @@ s1.symcb.com
 s2.symcb.com
 s3-1.amazonaws.com
 s3.amazonaws.com
+s3-eu-west-1.amazonaws.com
+s3-eu-west-2.amazonaws.com
 s3.symcb.com
 s4.symcb.com
 s5.symcb.com
