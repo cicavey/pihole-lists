@@ -28,6 +28,7 @@ bgr.com
 bitbucket.org
 bit.ly
 blocklists-settings.prod.mozaws.net
+bnc.lt
 btg.mtvnservices.com
 cdn.fbsbx.com
 cdnjs.cloudflare.com
