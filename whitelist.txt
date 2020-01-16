@@ -73,6 +73,7 @@ fb.me
 feedly.com
 fivethirtyeight.com
 forums.sonarr.tv
+fossbytes.com
 geoip.maxmind.com
 gfwsl.geforce.com
 giphy.com
