@@ -166,6 +166,7 @@ scontent.xx.fbcdn.net
 screenrant.com
 secure.gravatar.com
 serverfault.com
+services.gfe.nvidia.com
 services.sonarr.tv
 s.gateway.messenger.live.com
 s.imgur.com
