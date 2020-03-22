@@ -173,6 +173,7 @@ services.sonarr.tv
 s.gateway.messenger.live.com
 s.imgur.com
 skyhook.sonarr.tv
+socialize.us1.gigya.com
 someonewhocares.org
 spclient.wg.spotify.com
 ssl.gstatic.com
