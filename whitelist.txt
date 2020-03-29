@@ -55,6 +55,7 @@ customerevents.netflix.com
 dashboard.plex.tv
 device-api.urbanairship.com
 dl.dropboxusercontent.com
+docs.wixstatic.com
 download.sonarr.tv
 edge-chat.facebook.com
 edge-mqtt.facebook.com
