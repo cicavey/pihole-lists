@@ -1,6 +1,7 @@
 activate.baltimoresun.com
 activate.capitalgazette.com
 a.nytimes.com
+adbroker.mp.dse.microsoft.com
 api.arcpublishing.com
 cdn2.teads.tv
 cdn.keywee.co
