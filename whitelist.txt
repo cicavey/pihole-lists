@@ -32,6 +32,7 @@ bnc.lt
 btg.mtvnservices.com
 cdn.discordapp.com
 cdn.fbsbx.com
+cdn.jsdelivr.net
 cdnjs.cloudflare.com
 checkip.justwatch.com
 clients1.google.com
