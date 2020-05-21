@@ -33,6 +33,7 @@ btg.mtvnservices.com
 cdn.discordapp.com
 cdn.fbsbx.com
 cdn.jsdelivr.net
+cdn.shopify.com
 cdnjs.cloudflare.com
 checkip.justwatch.com
 clients1.google.com
