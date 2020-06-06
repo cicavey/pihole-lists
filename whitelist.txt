@@ -88,6 +88,7 @@ boards.greenhouse.io
 goo.gl
 googlehosted.l.googleusercontent.com
 graph.facebook.com
+graph.instagram.com
 gravatar.com
 hackaday.com
 hosts-file.net
