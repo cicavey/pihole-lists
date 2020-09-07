@@ -17,6 +17,7 @@ api.facebook.com
 app.hubspot.com
 apple.com
 appleid.apple.com
+app.link
 app.plex.tv
 apps.skype.com
 apt.sonarr.tv
